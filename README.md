@@ -14,7 +14,7 @@ A smart parking system helps drivers find a suitable parking space based on park
 
 A Markov Decision Process is represented as:
 
-MDP = (S, A, P, R, gamma)
+MDP = (S, A, P, R,  \gamma)
 
 Where:
 
@@ -24,7 +24,7 @@ Where:
 | A | Set of actions |
 | P | Transition probability function |
 | R | Reward function |
-|gamma | Discount factor |
+|$\gamma$ | Discount factor |
 
 ---
 
